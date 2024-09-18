@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am deeply passionate about the world of information technology. I have pursued training courses in web programming to embark on a career in this field. Currently, I serve as a full stack developer at a consulting company. My passion continually drives me to seek challenges and learn from seasoned professionals, thereby enriching my existing skills and acquiring new ones. I am committed to furthering my knowledge, dedicating my free time to online courses and practical exercises. Empathetic, determined, and adept at teamwork and communication, I am deeply passionate about programming. My determination and curiosity motivate me to utilize my free time for continuous learning and improvement.
+I am deeply passionate about the world of information technology. I have pursued training courses in web programming to embark on a career in this field. Currently, I serve as a Frontend Developer at a consulting company. My passion continually drives me to seek challenges and learn from seasoned professionals, thereby enriching my existing skills and acquiring new ones. I am committed to furthering my knowledge, dedicating my free time to online courses and practical exercises. Empathetic, determined, and adept at teamwork and communication, I am deeply passionate about programming. My determination and curiosity motivate me to utilize my free time for continuous learning and improvement.
 
 * 🌍  I'm based in Torino, Italy
 * 🖥️  See my portfolio at [qtNeeno](http://qtneeno.github.io/)
 * ✉️  You can contact me at [andrea.lentini.dev@gmail.com](mailto:andrea.lentini.dev@gmail.com)
-* 🧠  I'm learning React, Tailwind
+* 🧠  I'm learning React, Tailwind, Angular
 * ⚡  I love fantasy books and videogames
 
 ### Skills
